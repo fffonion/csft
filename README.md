@@ -1,9 +1,9 @@
 # csft
 Coreseek forked Sphinx
 
-This is a working patch for sphinx 2.11.0-dev
+This is a working patch for sphinx 2.2.10-dev
 
-For sphinx **2.11.1**, download the patch [here](https://github.com/fffonion/csft/releases/download/mmseg/csft-sphinx-2.2.11.patch)
+For sphinx **2.2.11**, download the patch [here](https://github.com/fffonion/csft/releases/download/mmseg/csft-sphinx-2.2.11.patch)
 
 For sphinx **2.3.2**, download the patch [here](https://github.com/fffonion/csft/releases/download/mmseg/csft-sphinx-2.3.2.patch)
 
